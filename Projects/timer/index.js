@@ -24,7 +24,7 @@ array.forEach((i) =>{
   if(i === 0)
   {
     console.log('under start')
-  console.time('under');
+  console.time('under');å
 
   }
 

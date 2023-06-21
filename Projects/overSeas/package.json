@@ -1,0 +1,15 @@
+{
+  "name": "@yolobuil/overseas",
+  "version": "0.0.2",
+  "description": "this project is sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}

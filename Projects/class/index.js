@@ -30,6 +30,7 @@ ram.driva();
 
 var util = require('util');
 
+// function親クラス
 let Cars = function(name){
   this.name = name
 }
@@ -38,6 +39,7 @@ Cars.prototype.driva = function(){
     console.log('functino car')
 }
 
+// function子クラス
 let Rams = function(name){
   Rams.super_.call(this,name)
 }
